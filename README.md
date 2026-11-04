@@ -1,8 +1,5 @@
-<h1 align="center">Heriberto Collazo</h1>
-
 <p align="center">
-  <b>Founder, Savvy Solution Pros LLC</b><br>
-  Sovereign, on-prem managed security &amp; compliance engineering.
+  <img src="assets/banner.png" alt="Heriberto Collazo — Founder, Savvy Solution Pros LLC" width="100%">
 </p>
 
 <p align="center">
